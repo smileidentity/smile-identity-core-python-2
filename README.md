@@ -1,4 +1,4 @@
-# SmileIdentityCore
+# SmileIdentityCore (Deprecated)
 
 The official Smile Identity library exposes four classes namely; the WebApi class, the IDApi class, the Signature class and the Utilities class.
 
