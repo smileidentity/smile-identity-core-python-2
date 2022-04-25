@@ -1,5 +1,7 @@
 # SmileIdentityCore (Deprecated)
 
+This repo has been deprecated and moved to [smile-identity-core-python3](https://github.com/smileidentity/smile-identity-core-python-3)
+
 The official Smile Identity library exposes four classes namely; the WebApi class, the IDApi class, the Signature class and the Utilities class.
 
 The **WebApi Class** allows you as the Partner to validate a user’s identity against the relevant Identity Authorities/Third Party databases that Smile Identity has access to using ID information provided by your customer/user (including photo for compare). It has the following public method:
